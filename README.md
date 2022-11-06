@@ -26,3 +26,9 @@ Features:
 - Auto Kill Yogs
 - Adjustable Max Mine Time
 - Auto Mine Mining Speed Boost
+
+Warning: DO NOT USE THIS MOD IF YOU DON'T WANT TO RISK A BAN. I am not responsible if you get banned. Currently it is fully working and not detectable, so your ban chance is super low.
+
+Currently 0 bans.
+
+Notes:
