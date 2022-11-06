@@ -27,8 +27,13 @@ Features:
 - Adjustable Max Mine Time
 - Auto Mine Mining Speed Boost
 
-Warning: DO NOT USE THIS MOD IF YOU DON'T WANT TO RISK A BAN. I am not responsible if you get banned. Currently it is fully working and not detectable, so your ban chance is super low.
+Warning: DO NOT USE THIS MOD IF YOU DON'T WANT TO RISK A BAN. I am not responsible if you get banned. Currently it is fully working and NOT DETECTABLE, so your ban chance is super low.
 
 Currently 0 bans.
 
-Notes:
+Notes: 
+- For some reason BZ notifier breaks with this mod. Remove the mod and it will fix itself.
+
+Report bugs pls.
+
+DM GRAPES#3522 on Discord if you have problems (Server Coming Soon).
