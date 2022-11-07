@@ -37,4 +37,4 @@ Notes:
 
 Report bugs pls.
 
-DM GRAPES#3522 on Discord if you have problems (Server Coming Soon).
+Join https://discord.gg/pfjUWg4ev4
