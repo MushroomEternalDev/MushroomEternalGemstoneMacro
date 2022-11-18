@@ -33,8 +33,9 @@ Warning: DO NOT USE THIS MOD IF YOU DON'T WANT TO RISK A BAN. I am not responsib
 Currently 0 bans.
 
 Notes: 
-- For some reason BZ notifier breaks with this mod. Remove the mod and it will fix itself.
 
-Report bugs pls.
+- Report bugs pls. 
 
-Join https://discord.gg/pfjUWg4ev4
+Contact:
+
+-DM GRAPES #3522 on Discord
